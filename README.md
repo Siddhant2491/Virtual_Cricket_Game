@@ -1,4 +1,4 @@
-Virtual Cricket Game
+### Virtual Cricket Game
 
 #### CRIC-IN: Virtual Cricket Game Application
 
@@ -46,4 +46,10 @@ Virtual Cricket Game
 - Clone the repository and compile the program using a C++ compiler.
 
 - ![m5-project-output_pptx-1](https://github.com/user-attachments/assets/1d5c975e-4613-4b50-9e5c-164fb56e0716)
+
+- ![m5-project-output_pptx-3](https://github.com/user-attachments/assets/8a1cd68b-668a-4134-b5dc-f8132e7f3095)
+
+- ![m5-project-output_pptx-6](https://github.com/user-attachments/assets/e1e0d4dd-86e8-4cef-a99a-730d1ebdf1e7)
+
+
 
